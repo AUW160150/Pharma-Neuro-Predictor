@@ -11,7 +11,7 @@
 
 ---
 
-## 🏆 MemVerge Integration Highlights
+##  MemVerge Integration Highlights
 
 ### Why MemVerge Matters for Drug Discovery
 
