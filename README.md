@@ -1,6 +1,9 @@
 
 # 🧠 PharmaNeuro Predictor
 
+# Why it matters
+The CNS drug discovery process is plagued by inefficiencies: long timelines, high costs, and unpredictable side effects. PharmaNeuro Predictor accelerates drug screening by integrating AI-driven models with distributed computing and memory pooling, enabling pharmaceutical companies to screen millions of compounds rapidly and effectively. This platform streamlines the process, reduces risks, and provides crucial insights into CNS drug development, significantly advancing preclinical screening.
+
 **MemVerge-Powered AI Platform for CNS Drug Discovery**
 
 > Leveraging distributed computing and memory pooling for production-scale drug screening
@@ -20,7 +23,7 @@
 - Memory bottlenecks: Cannot load entire datasets
 - Scalability issues: Single-machine limitations
 
-**Our Solution with MemVerge Principles**:
+**My Solution with MemVerge Principles**:
 
 ### 1. **Memory Pooling & Efficient Resource Management** 
 ✅ Batch processing architecture prevents memory overflow
